@@ -1,8 +1,24 @@
-# React + Vite
+# 🐦 Phoenix AI Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:** [Visit the site](https://my-chat-phoenix.vercel.app/)
 
-Currently, two official plugins are available:
+## 🌟 Overview
+An AI Chatbot website built with **React**, **TailwindCSS**, and **Appwrite**, deployed on **Vercel**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 💬 Real‑time AI Chat
+- ⚡️ Modern, Responsive UI
+- 🔐 Appwrite Backend
+- 🌐 Deployed on Vercel
+
+## 🛠️ Technologies
+- React
+- TailwindCSS
+- Appwrite
+- Vercel
+
+## ⚡️ Getting Started
+```bash
+git clone https://github.com/your-username/my-chat-phoenix.git
+npm install
+npm run dev
