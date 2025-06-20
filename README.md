@@ -17,8 +17,4 @@ An AI Chatbot website built with **React**, **TailwindCSS**, and **Appwrite**, d
 - Appwrite
 - Vercel
 
-## ⚡️ Getting Started
-```bash
-git clone https://github.com/your-username/my-chat-phoenix.git
-npm install
-npm run dev
+
